@@ -1,4 +1,4 @@
-A data analysis project to prove Linus Trevalz's grave that:
+A data analysis project to prove Linus Trevalds grave that:
 just for fun
 It doesn't matter if the project is simple or not...
 Is it useful or not..... (somewhat)
