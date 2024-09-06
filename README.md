@@ -6,4 +6,3 @@ But it is possible that the same thing won't hurt and it will easily cause a big
 Like Linux
 
 #linus_torvalds
-#linux
